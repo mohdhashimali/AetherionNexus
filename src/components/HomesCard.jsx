@@ -51,7 +51,7 @@ return (
       <div
         style={{
           backgroundImage:
-            "url('https://dbjpekgzfghzs.cloudfront.net/4c9ae572edbe41f8efc8dc669982c1844d0891cd-md.jpg')",
+            `url('./${property.id}.png')`,
         }}
         className="bg-cover bg-center bg-gray-300 h-32 rounded"
       ></div>

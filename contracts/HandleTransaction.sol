@@ -67,7 +67,7 @@ contract RealEstateTransaction {
         properties.push(Property({
             propertyName: "Royal Orchid Heights ",
             propertyAddress: "45, Anna Nagar West, Chennai, Tamil Nadu, 600040",
-            seller: 0xbC76F82310228be8697F56b84A63cEC94348d624, // Another example seller address
+            seller: 0xd203Ca9Ce92b6DFF1c896daF3D63532050e44F5d, // Another example seller address
             price: 8 ether, // Another example price
             sold: false
         }));
