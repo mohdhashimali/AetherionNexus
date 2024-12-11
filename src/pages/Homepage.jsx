@@ -54,7 +54,7 @@ export default function Homepage() {
         <div className="flex items-center justify-center h-full w-full bg-gray-900 bg-opacity-50">
           <div className="text-center">
             <h1 className="mb-6 text-2xl font-extrabold leading-none tracking-normal text-white md:text-4xl md:tracking-tight">
-              Get back to living
+            Where Your Vision Meets Your Portfolio
             </h1>
             <h1 className="mb-6 text-4xl font-extrabold leading-none tracking-normal text-white md:text-6xl md:tracking-tight">
               Great properties and a rental experience
@@ -81,7 +81,7 @@ export default function Homepage() {
         <div className="space-y-2 text-center">
           <h2 className="text-3xl font-bold">Properties near you</h2>
           <p className="font-serif text-sm dark:text-coolGray-400">
-            Choose from our wide range of properties to buy.
+            Choose from our wide range of properties to invest.
           </p>
         </div>
         <div className="flex gap-6 mt-12 justify-center min-w-full">

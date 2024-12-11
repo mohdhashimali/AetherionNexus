@@ -1,6 +1,6 @@
 const contractConfig = {
-  realEstateAddress: "0xf436fdFE75D21993f3926236FB5ce0008BB3640C",
-  transactionAddress: "0x46C6B8f486F8b05852c69a719526705FC25Fb9A0",
+  realEstateAddress: "0x961d8502cB3d54FC23D90aceC58aD0CBb80eCA87",
+  transactionAddress: "0xa00Ad354f68046080C0C870fBa6921B7310Ca249",
 };
 
 export default contractConfig;

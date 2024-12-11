@@ -58,16 +58,16 @@ contract RealEstateTransaction {
             sold: false
         }));
         properties.push(Property({
-            propertyName: "Sunrise Residency",
+            propertyName: "Oggy Residence",
             propertyAddress: "18/2, Lajpat Nagar, New Delhi, Delhi, 110024",
-            seller: 0x5Da05E822d287E2827A929CA6e65A3C23070586A, // Another example seller address
-            price: 3 ether, // Another example price
+            seller: 0xE06DD92F6fDe1aF36Fb0e0f44d71350EF7cF779c, // Another example seller address
+            price: 20 ether, // Another example price
             sold: false
         }));
         properties.push(Property({
             propertyName: "Royal Orchid Heights ",
             propertyAddress: "45, Anna Nagar West, Chennai, Tamil Nadu, 600040",
-            seller: 0xd203Ca9Ce92b6DFF1c896daF3D63532050e44F5d, // Another example seller address
+            seller: 0xcFd8b0F99294A3d9b5Bf48364c1f7daf772e58C3, // Another example seller address
             price: 8 ether, // Another example price
             sold: false
         }));
