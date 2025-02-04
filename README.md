@@ -87,7 +87,8 @@ This tests:
 - **Fractional Ownership Trading**: Introduce a marketplace for trading fractional ownership tokens.
 
 ## Contributors
-- [Hashim](https://github.com/mohdhashimali)
+- [Hashim](https://github.com/mohdhashimali) and [team](https://www.linkedin.com/in/mohdhashimali/details/projects/urn:li:fsd_profileProject:(ACoAADkWNT8B5u5Pctn92sJm6NOuDMy80HDaAas,1338464827)/creators/).
+- Special thanks to [Goutham Pai](https://github.com/gouthampai05).
 
 # React + Vite
 
