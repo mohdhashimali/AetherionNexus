@@ -28,8 +28,8 @@ This project is ideal for real estate investors, property developers, and blockc
 ### Steps
 1. **Clone the Repository:**
    ```sh
-   git clone https://github.com/your-repo/real-estate-tokenization.git
-   cd real-estate-tokenization
+   git clone https://github.com/mohdhashimali/AetherionNexus.git
+   cd AetherionNexus
    ```
 2. **Install Dependencies:**
    ```sh
@@ -90,7 +90,7 @@ This tests:
 - [Hashim](https://github.com/mohdhashimali) and [team](https://www.linkedin.com/in/mohdhashimali/details/projects/urn:li:fsd_profileProject:(ACoAADkWNT8B5u5Pctn92sJm6NOuDMy80HDaAas,1338464827)/creators/).
 - Special thanks to [Goutham Pai](https://github.com/gouthampai05).
 
-# React + Vite
+## React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
